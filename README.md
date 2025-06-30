@@ -1,6 +1,6 @@
 ## 👋 안녕하세요! 개발자 [곽대열]입니다.
 
-저는 Java 기반 백엔드 개발자이며, 웹과 서버를 넘나드는 개발을 지향합니다.]
+[ 저는 Java 기반 백엔드 개발자이며, 웹과 서버를 넘나드는 개발을 지향합니다.]
 
 ### 🔧 기술 스택
 - **Backend**: Java, Spring Boot, Flask, Node.js
@@ -23,8 +23,8 @@
 - TypeScript, Spring Security, Vue.js 심화, ERD 설계, 대규모 트래픽 대응
 
 ### ✍ 블로그 & 연락처
-- **Tech Blog**: [velog.io/@yourID](https://velog.io/@yourID)
-- **Email**: rhkreoduf123@gmail.com
+- **Tech Blog**: [https://velog.io/@daeyeol222/posts]
+- **Email**: [rhkreoduf123@gmail.com]
 
 ### 🤝 협업과 성장
 꾸준히 성장하는 개발자, 팀에 기여할 줄 아는 개발자가 되기 위해 노력하고 있습니다.
